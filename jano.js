@@ -1,6 +1,6 @@
 
 const Discord = require("discord.js");
-const myid = ['id xot364018196']
+const myid = ['775397542681640973']
 const prefix = ["$"];
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
@@ -4819,24 +4819,24 @@ jano200.on("message", message => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
-jano7.login("");
-jano8.login("");
-jano9.login("");
-jano10.login("");
-jano11.login("");
-jano12.login("");
-jano13.login("");
-jano14.login("");
-jano15.login("");
-jano16.login("");
-jano17.login("");
-jano18.login("");
+jano.login("Nzg5MDY0MDAzMDMxNjYyNTky.X9snfQ.KI89KgrEKZPksjBSMGy-BvNxkM");
+jano2.login("Nzg5MDY0NTQ0Mzk5MTMwNjI1.X9soBA.U8z8aLPSu2OdKgpDEayVHYtkNuk");
+jano3.login("Nzg5MDY1MjgzODM4NDEwNzcz.X9sojw.N0DMA5fWZ2HiyVsDgkdjITnZfz4");
+jano4.login("Nzg5MDY1NjgxNTQyNTc4MTk2.X9spDw.FAlBCNbKLx4TpMNGujXDtby4nWM");
+jano5.login("Nzg5MDY2NTM2Mzg3NjA4NTg3.X9sqxA.i7bC8gD0LS4F0KdkCsmX5Nbcejo");
+jano6.login("Nzg5MDY4MDk1MzY0MDA1OTA4.X9srUg.ZHwE_6x-hPW_89JAQl4qTbHysJ8");
+jano7.login("Nzg5MDY4NjYyNjgyMDI2MDA3.X9stPw.51Soq-6WTbX22tLxK3J5QSDbN6E");
+jano8.login("Nzg5MDcwNzQ0MjA1MzkzOTYw.X9strw.X1pY6RpNIlg_OWGQQS8aWMrNSRI");
+jano9.login("Nzg5MDcxMjM0NjU0MTQyNDk0.X9swrg.PaknFcBuDzcns6e3Nq5uHDlZaFs");
+jano10.login("Nzg5MDc0NDQ1ODE3MDg1OTcy.X9sxRw.AFQPBemnbarcs8dtVcLn28j2S_c");
+jano11.login("Nzg5MDc1MTAzNDcyMjg3Nzc1.X9sx1A.qyPacapn7zJCzPhjgxfZhzJ8d5Q");
+jano12.login("Nzg5MDc1NjE1NDI0MzE1NDAy.X9syeQ.euF7AO6OvON8E1lx3tu3aKjsjtM");
+jano13.login("Nzg5MDc2NDczMTc2NjUzODI0.X9sy9Q.TigWShhtaxxDSC6v2aVjqyXhBYQ");
+jano14.login("Nzg5MDgwMDU5Mjc2MTY1MTIx.X9s2cQ.ATQBObMBt8wcHCPwLt0ib2p-zIo");
+jano15.login("Nzg5MDgwOTAyOTMyMjM0MjYx.X9s57w.2kVVVlvdtbBEJ2qNWNNBGYCkjI8");
+jano16.login("Nzg5MDc3NDM5NjY5NDY5MjM0.X9sz8w.J2wCmSRR0CRSLui4qK8nCBaQNI");
+jano17.login("Nzg5MDg2ODY1NDcwMjU5MjUy.X9s8rA.M2Yb9CGX0gJW9VsfNcPkJ3RXwaY");
+jano18.login("Nzg5MDc2ODY5OTAyNzYxOTg1.X9szfA.QZ7OsVvjPVgQuK7MYZCIaxtW60");
 jano19.login("");
 jano20.login("");
 jano21.login("");
